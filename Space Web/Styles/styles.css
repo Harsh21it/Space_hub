@@ -1,0 +1,13 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.head{
+    margin:auto;
+}
+#planets{
+    padding: 100px 100px;
+}
+.planet-col 
+{
+    padding: 3% 3%;
+}
